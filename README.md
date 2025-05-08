@@ -9,6 +9,8 @@ Inspired by the phenomenal artwork and storytelling prowess of Trungles (https:/
 
 **Tech used:** HTML, CSS, JavaScript
 
+Tinkering with the JavaScript to figure out how to make the cards turn and match with each other was an amazing challenge to work through! I absolutely adore how the deck turned out.
 
 ## Future Optimizations
 - Utilize an image sprite for photos
+- Possibly add rotating card options
